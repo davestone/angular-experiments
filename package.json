@@ -1,0 +1,30 @@
+{
+  "author": "Dave Stone <dave@ketch.io> (https://ketch.io)",
+  "contributors": [ 
+    "Karl Freeman <karl@ketch.io> (https://ketch.io)"
+  ],
+  "name": "angular-experiments",
+  "description": "Angular.js A/B.. split.. experiment helper.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/getketch/angular-experiments",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getketch/angular-experiments"
+  },
+  "keywords": [ ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-cli": "latest",
+    "grunt": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-karma": "latest",
+    "jasmine-node": "latest",
+    "karma": "latest",
+    "phantomjs": "latest"
+  }
+}
